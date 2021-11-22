@@ -42,7 +42,7 @@ html {
 
 .card .img {
     grid-area: img;
-    background-image: url(images/image-header-desktop.jpg);
+    background-image: url(image-header-desktop.jpg);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -125,7 +125,7 @@ html {
 
     .card .img {
         grid-area: img;
-        background-image: url(images/image-header-mobile.jpg);
+        background-image: url(image-header-mobile.jpg);
 
     }
 
